@@ -1,1 +1,1 @@
-# BusinessAnalysisCourse for BA undergrand student
+# BusinessAnalysisCourse for BA undergraduated students
